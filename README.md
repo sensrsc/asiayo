@@ -9,7 +9,14 @@
 ## API 
 
     $ make start-app
+    # start app with nginx and mysql using docker compose build and docker compose up -d
+    
     $ make test
+    # run test cases
+    # test api with POST http://127.0.0.1:8001/api/orders or GET http://127.0.0.1:8001/api/orders/A0000001?currency=TWD
+    
+    $ make stop
+    # docker compose down to stop app, nginx, mysql
     
 SOLID
 1. Single Responsibility Principle
