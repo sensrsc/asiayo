@@ -8,8 +8,8 @@
 
 ## API 
 
-$ make start-app
-$ make test
+    $ make start-app
+    $ make test
     
 SOLID
     1. Single Responsibility Principle
