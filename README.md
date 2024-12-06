@@ -12,11 +12,11 @@
     $ make test
     
 SOLID
-    1. Single Responsibility Principle
-    2. Dependency Inversion Principle
+1. Single Responsibility Principle
+2. Dependency Inversion Principle
 
 Design Pattern
-    1. Dependency Injection
+1. Dependency Injection
 
 ## Architecure
 
