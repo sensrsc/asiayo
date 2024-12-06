@@ -7,3 +7,5 @@ start-app:
 test:
 	docker exec php /bin/sh -c "php artisan test"
 
+stop-app:
+	docker compose down
